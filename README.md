@@ -52,7 +52,7 @@ RetroBar is based on the [ManagedShell](https://github.com/cairoshell/ManagedShe
   - Aero
   - Basic
   - Classic
-
+ * the Vista theme has the Longhorn start orb (this is due to me using this in my upcoming Windows mod, LHRTM)
 ## Supported languages
 - Arabic (العربية)
 - Bulgarian (български)
